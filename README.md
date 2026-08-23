@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [1480-running-sum-of-1d-array](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/2413-smallest-even-multiple) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
