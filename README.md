@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [1470-shuffle-the-array](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 ## Simulation
