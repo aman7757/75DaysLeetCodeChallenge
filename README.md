@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2119-a-number-after-a-double-reversal](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/2413-smallest-even-multiple) |
