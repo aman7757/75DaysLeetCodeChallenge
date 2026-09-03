@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
