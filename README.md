@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -77,9 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
