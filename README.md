@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1859-sorting-the-sentence](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
@@ -91,4 +92,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [1859-sorting-the-sentence](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1859-sorting-the-sentence) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
