@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
