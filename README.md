@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1512-number-of-good-pairs](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1859-sorting-the-sentence) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
