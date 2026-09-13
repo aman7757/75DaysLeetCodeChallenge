@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
