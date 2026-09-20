@@ -3,8 +3,25 @@ public:
     int majorityElement(vector<int>& nums) {
         int n = nums.size();
 
+        //Best approach MOORE VOTING ALGO
+
+        int freq = 0, ans = 0;
+
+        for(int i = 0; i < n; i++){
+            if(freq == 0) {
+                ans = nums[i];
+            }
+            if(ans == nums[i]){
+                freq++;
+            }else {
+                freq--;
+            }
+        }
+        return ans;
+
+
         //Sort
-        sort(nums.begin(),nums.end());
+       /*  sort(nums.begin(),nums.end());
 
         int freq = 1, ans = nums[0];
 
@@ -21,7 +38,7 @@ public:
             }
         }
 
-        return ans;
+        return ans; */
 
 
 
