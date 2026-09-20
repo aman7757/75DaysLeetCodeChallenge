@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1470-shuffle-the-array) |
@@ -89,15 +90,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1859-sorting-the-sentence](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1859-sorting-the-sentence) |
 ## Bubble Sort
@@ -113,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aman7757/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
